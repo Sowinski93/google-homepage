@@ -1,1 +1,1 @@
-Build the Google homepage based on develepor tools in web browser.
+Build the Google homepage based on developer tools in web browser.
